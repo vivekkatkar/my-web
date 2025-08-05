@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Vivek Katkar — 3D Portfolio",
+    fullName: "Vivek Shivaji Katkar",
+    email: "katkarvivek0@gmail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Vivek Katkar",
+    p: ["I build scalable web applications,", "microservices and competitive solutions"],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,12 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I'm a passionate Computer Science student at Walchand College of Engineering with a strong
+      foundation in competitive programming and full-stack development. With a 5★ CodeChef rating and
+      ICPC Regionalist achievement, I excel in problem-solving and algorithm design. I specialize in
+      building scalable microservices, modern web applications using React.js, Node.js, and databases
+      like PostgreSQL and MongoDB. I'm experienced in DevOps tools like Docker and Kubernetes, and
+      have won multiple hackathons including NICE Coday 2025. Let's work together to bring innovative ideas to life!`,
     },
     experience: {
       p: "What I have done so far",
